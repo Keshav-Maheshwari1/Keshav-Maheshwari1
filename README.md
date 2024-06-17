@@ -1,6 +1,5 @@
 ![Header](https://github.com/Keshav-Maheshwari1/Keshav-Maheshwari1/assets/143239661/c35270f1-549a-41e4-8bbe-f66f2795185a)
-<h1 align="center">Hi 👋, I'm Keshav Maheshwari</h1>
-<h3 align="center">A passionate WebDeveloper</h3>
+
 
 - 💬 Ask me about **Feel free to ask me about setting up Spring Boot Actuator endpoints for monitoring microservices performance**
 
