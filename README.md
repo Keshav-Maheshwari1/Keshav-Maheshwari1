@@ -3,8 +3,10 @@
 
 <h3 align="left">Explore my Projects</h3>
 <p align="left">
-<a href="https://disastr1111.netlify.app/">DisastR:</a>
-<a hreff="https://heritage-dusky.vercel.app/">Heritage</a>
+<a href="https://disastr1111.netlify.app/">DisastR</a>
+<br>
+<a href="https://heritage-dusky.vercel.app/">Heritage</a>
+<br>
 <a href="https://github.com/Keshav-Maheshwari1/Microservices">MicroServices</a>
 </p>
 
