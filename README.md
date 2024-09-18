@@ -3,9 +3,9 @@
 
 <h3 align="left">Explore my Projects</h3>
 <p align="left">
-<p>DisastR:</p>
-<p>Heritage</p>
-<p>MicroServices</p>
+<a href="https://disastr1111.netlify.app/">DisastR:</a>
+<a hreff="https://heritage-dusky.vercel.app/">Heritage</a>
+<a href="https://github.com/Keshav-Maheshwari1/Microservices">MicroServices</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
