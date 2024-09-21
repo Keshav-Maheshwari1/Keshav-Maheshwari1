@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://disastr1111.netlify.app/">DisastR</a>
 <br>
-<a href="https://heritage-dusky.vercel.app/">Heritage</a>
+<a href="https://aplereplicaa.netlify.app/">Apple Clone</a>
 <br>
 <a href="https://github.com/Keshav-Maheshwari1/Microservices">MicroServices</a>
 </p>
