@@ -3,8 +3,8 @@
 
 <h3 align="left">Explore my Projects</h3>
 <p align="left">
-  <br>
 <a href="https://keshav.webzinny.com/">SmartHire</a>
+<br>
 <a href="https://disastr1111.netlify.app/">DisastR</a>
 <br>
 <a href="https://aplereplicaa.netlify.app/">Apple Clone</a>
